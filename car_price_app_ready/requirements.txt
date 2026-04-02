@@ -1,5 +1,0 @@
-flask
-gunicorn
-numpy
-scikit-learn
-pandas
