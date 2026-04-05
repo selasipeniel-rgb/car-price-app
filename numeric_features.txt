@@ -1,6 +1,0 @@
-production_year
-levy
-mileage
-cylinders
-airbags
-engine_volume
