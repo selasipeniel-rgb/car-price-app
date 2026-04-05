@@ -1,0 +1,13 @@
+# model files (regenerate by running the notebook)
+*.pkl
+*.txt
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
